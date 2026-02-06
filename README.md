@@ -7,8 +7,6 @@ Desenvolvedora Web Júnior
 Sou desenvolvedora web júnior, estudante de tecnologia, apaixonada por criação de interfaces
 e experiências digitais.
 
-Sou desenvolvedora web júnior, estudante de tecnologia e apaixonada pela criação de interfaces e experiências digitais.
-
 Tenho experiência prática com desenvolvimento frontend utilizando HTML, CSS, JavaScript e React, além de já ter trabalhado com MySQL em projetos acadêmicos e pessoais.
 
 Atualmente estou aprofundando meus conhecimentos em Next.js e iniciando estudos e aplicações com Node.js, buscando evoluir para desenvolvimento full stack.
