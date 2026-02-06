@@ -1,8 +1,9 @@
 [root@IsaDev ~]$ whoami
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 👩‍💻 Isabelle Santana |
 Desenvolvedora Web Júnior
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 Sou desenvolvedora web júnior, estudante de tecnologia, apaixonada por criação de interfaces
 e experiências digitais.
 
@@ -13,29 +14,58 @@ Tenho experiência prática com desenvolvimento frontend utilizando HTML, CSS, J
 Atualmente estou aprofundando meus conhecimentos em Next.js e iniciando estudos e aplicações com Node.js, buscando evoluir para desenvolvimento full stack.
 
 Tenho foco em escrever código organizado, aplicar boas práticas e desenvolver projetos com usabilidade e boa experiência do usuário.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-🛠️ Tecnologias 
+<h2>🛠️ Tecnologias</h2>
 
-🔹 Linguagens
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<table>
+  <tr>
+    <th>Categoria</th>
+    <th>Tecnologias</th>
+  </tr>
 
-🔹 Frontend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <tr>
+    <td><b>Linguagens</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>
+    </td>
+  </tr>
 
-🔹 Banco de Dados
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35"/>
+    </td>
+  </tr>
 
-⚙️ Ferramentas
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
+  <tr>
+    <td><b>Banco de Dados</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/>
+    </td>
+  </tr>
 
-📚 Estudando atualmente
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <tr>
+    <td><b>Ferramentas</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35"/>
+    </td>
+  </tr>
 
+  <tr>
+    <td><b>Estudando atualmente</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="35"/>
+    </td>
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 🚀 Projetos
 
 Portfólio Pessoal — Em desenvolvimento  
