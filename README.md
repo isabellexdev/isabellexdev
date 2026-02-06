@@ -66,16 +66,69 @@ Tenho foco em escrever código organizado, aplicar boas práticas e desenvolver 
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-🚀 Projetos
 
-Portfólio Pessoal — Em desenvolvimento  
-Projeto focado em apresentar minhas habilidades, projetos e identidade como desenvolvedora web, utilizando HTML, CSS, JavaScript e React.
+<h2>🚀 Projetos</h2>
 
-Rota dos Sonhos — Site de intercâmbio  
-Site informativo desenvolvido com foco em layout moderno, responsivo e organização de conteúdo para apresentar destinos e planos de intercâmbio.
+<p>
+Meus projetos demonstram a aplicação prática de desenvolvimento web,
+foco em interface, organização de código e experiência do usuário.
+</p>
 
-Echo Music — Plataforma musical  
-Aplicação web desenvolvida com React no frontend, focada em interface interativa e experiência do usuário, com organização de dados e integração entre camadas da aplicação.
+<table>
+  <thead>
+    <tr>
+      <th>Projeto</th>
+      <th>Descrição</th>
+      <th>Tecnologias</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Portfólio Pessoal</strong></td>
+      <td>
+        Projeto em desenvolvimento focado em apresentar minhas habilidades,
+        identidade visual e projetos como desenvolvedora web.
+      </td>
+      <td>
+        HTML, CSS, JavaScript, React
+      </td>
+      <td>
+        Em desenvolvimento
+      </td>
+    </tr>
+
+    <tr>
+      <td><strong>Rota dos Sonhos</strong></td>
+      <td>
+        Site de intercâmbio com layout moderno e responsivo,
+        focado na organização de conteúdo, destinos e planos.
+      </td>
+      <td>
+        HTML, CSS, JavaScript
+      </td>
+      <td>
+        Em breve
+      </td>
+    </tr>
+
+    <tr>
+      <td><strong>Echo Music</strong></td>
+      <td>
+        Plataforma musical com interface interativa,
+        foco em experiência do usuário e integração entre frontend e backend.
+      </td>
+      <td>
+        React, Node.js, MySQL
+      </td>
+      <td>
+        <a href="https://github.com/isatech07/echomusic.git" target="_blank">
+          Repositório
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 
