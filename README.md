@@ -74,50 +74,6 @@ Meus projetos demonstram a aplicação prática de desenvolvimento web,
 foco em interface, organização de código e experiência do usuário.
 </p>
 
-<table>
-  <thead>
-    <tr>
-      <th>Projeto</th>
-      <th>Descrição</th>
-      <th>Tecnologias</th>
-      <th>Link</th>
-    </tr>
-  </thead>
-
-  <tbody>
-    <tr>
-      <td><strong>Portfólio Pessoal</strong></td>
-      <td>
-        Projeto em desenvolvimento focado em apresentar minhas habilidades,
-        identidade visual e projetos como desenvolvedora web.
-      </td>
-      <td>HTML, CSS, JavaScript, React</td>
-      <td>Em desenvolvimento</td>
-    </tr>
-
-    <tr>
-      <td><strong>Rota dos Sonhos</strong></td>
-      <td>
-        Site de intercâmbio com layout moderno e responsivo,
-        focado na organização de conteúdo, destinos e planos.
-      </td>
-      <td>HTML, CSS, JavaScript</td>
-      <td>Em breve</td>
-    </tr>
-
-    <tr>
-      <td><strong>Echo Music</strong></td>
-      <td>
-        Plataforma musical com interface interativa,
-        foco em experiência do usuário e integração entre frontend e backend.
-      </td>
-      <td>React, Node.js, MySQL</td>
-      <td>
-        <a href="https://github.com/isatech07/echomusic.git" target="_blank">
-          Repositório
-        </a>
-      </td>
-    </tr>
   </tbody>
 </table>
 
