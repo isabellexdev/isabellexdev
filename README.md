@@ -1,7 +1,9 @@
-[root@IsaDev ~]$ whoami
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=7B68EE&center=true&vCenter=true&width=600&lines=Isa+Dev"/>
+</h1>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-👩‍💻 Isabelle Santana |
+Isabelle Santana |
 Desenvolvedora Web Júnior
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 Sou desenvolvedora web júnior, estudante de tecnologia, apaixonada por criação de interfaces
