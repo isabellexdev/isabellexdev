@@ -83,6 +83,7 @@ foco em interface, organização de código e experiência do usuário.
       <th>Link</th>
     </tr>
   </thead>
+
   <tbody>
     <tr>
       <td><strong>Portfólio Pessoal</strong></td>
@@ -90,12 +91,8 @@ foco em interface, organização de código e experiência do usuário.
         Projeto em desenvolvimento focado em apresentar minhas habilidades,
         identidade visual e projetos como desenvolvedora web.
       </td>
-      <td>
-        HTML, CSS, JavaScript, React
-      </td>
-      <td>
-        Em desenvolvimento
-      </td>
+      <td>HTML, CSS, JavaScript, React</td>
+      <td>Em desenvolvimento</td>
     </tr>
 
     <tr>
@@ -104,12 +101,8 @@ foco em interface, organização de código e experiência do usuário.
         Site de intercâmbio com layout moderno e responsivo,
         focado na organização de conteúdo, destinos e planos.
       </td>
-      <td>
-        HTML, CSS, JavaScript
-      </td>
-      <td>
-        Em breve
-      </td>
+      <td>HTML, CSS, JavaScript</td>
+      <td>Em breve</td>
     </tr>
 
     <tr>
@@ -118,9 +111,7 @@ foco em interface, organização de código e experiência do usuário.
         Plataforma musical com interface interativa,
         foco em experiência do usuário e integração entre frontend e backend.
       </td>
-      <td>
-        React, Node.js, MySQL
-      </td>
+      <td>React, Node.js, MySQL</td>
       <td>
         <a href="https://github.com/isatech07/echomusic.git" target="_blank">
           Repositório
@@ -130,6 +121,7 @@ foco em interface, organização de código e experiência do usuário.
   </tbody>
 </table>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 
 
