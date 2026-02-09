@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=7B68EE&center=true&vCenter=true&width=600&lines=Isa+Dev"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=7B68EE&center=true&vCenter=true&width=600&lines=Isabelle+Dev"/>
 </h1>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
