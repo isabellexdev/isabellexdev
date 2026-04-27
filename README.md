@@ -59,7 +59,6 @@ Tenho foco em escrever código organizado, aplicar boas práticas e desenvolver 
   <tr>
     <td><b>Estudando atualmente</b></td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="35"/>
     </td>
   </tr>
