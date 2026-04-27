@@ -60,6 +60,7 @@ Tenho foco em escrever código organizado, aplicar boas práticas e desenvolver 
     <td><b>Estudando atualmente</b></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="35"/>
+      <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
     </td>
   </tr>
 </table>
