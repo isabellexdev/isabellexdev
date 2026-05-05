@@ -61,7 +61,8 @@ Tenho foco em escrever código organizado, aplicar boas práticas e desenvolver 
   <tr>
     <td><b>Estudando atualmente</b></td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="35"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" width="35"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="35"/>    
     </td>
   </tr>
 </table>
