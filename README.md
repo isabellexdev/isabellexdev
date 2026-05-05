@@ -33,9 +33,11 @@ Tenho foco em escrever código organizado, aplicar boas práticas e desenvolver 
   </tr>
 
   <tr>
-    <td><b>Frontend</b></td>
+    <td><b>Framework</b></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="35" /> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" width="35"/>    
     </td>
   </tr>
 
@@ -43,6 +45,7 @@ Tenho foco em escrever código organizado, aplicar boas práticas e desenvolver 
     <td><b>Banco de Dados</b></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" width="35" />    
     </td>
   </tr>
 
