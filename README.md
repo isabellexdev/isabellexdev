@@ -26,14 +26,6 @@ Sou apaixonada por tecnologia, aprendizado contínuo e desenvolvimento de soluç
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TaniaIsabelle&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=c084fc&text_color=e2d9f3&icon_color=a855f7&include_all_commits=true&count_private=true" height="150"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TaniaIsabelle&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=a855f7&fire=c084fc&currStreakLabel=c084fc&sideLabels=e2d9f3&dates=a1a1aa" height="150"/>
-</div>
-
-<br/>
-
-<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20&height=1&width=100%"/>
 </div>
 
