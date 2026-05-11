@@ -6,21 +6,9 @@
 
 <br/>
 
-<div align="center">
+## `> sobre mim`
 
-```
-  ✦  transformando código em experiência  ✦
-```
-
-</div>
-
-<br/>
-
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="55%" valign="top">
-
-### `> sobre mim`
+> _transformando código em experiência_ ✦
 
 ```ts
 const isabelle = {
@@ -36,16 +24,13 @@ Desenvolvo interfaces **responsivas e acessíveis** com foco em experiência do 
 
 Apaixonada por aprendizado contínuo, atualmente expandindo para o universo **mobile e back-end** para construir produtos completos e escaláveis.
 
-</td>
-<td width="45%" valign="top" align="center">
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=isabelle-santana&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=c084fc&text_color=e2d9f3&icon_color=a855f7&include_all_commits=true&count_private=true" width="100%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=isabelle-santana&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=a855f7&fire=c084fc&currStreakLabel=c084fc&sideLabels=e2d9f3&dates=a1a1aa" width="100%"/>
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TaniaIsabelle&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=c084fc&text_color=e2d9f3&icon_color=a855f7&include_all_commits=true&count_private=true" height="150"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TaniaIsabelle&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=a855f7&fire=c084fc&currStreakLabel=c084fc&sideLabels=e2d9f3&dates=a1a1aa" height="150"/>
+</div>
 
 <br/>
 
