@@ -6,9 +6,9 @@
 
 <br/>
 
-## `> SOBRE MIM`
+## `✦ SOBRE MIM`
 
-> _transformando código em experiência_ ✦
+> _Transformando código em experiência_ ✦
 
 <p>🧑‍💻 <b>Role:</b> Front-End Developer Jr.</p>
 <p>💜 <b>Paixão:</b> UI elegante · código limpo · UX</p>
