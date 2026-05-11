@@ -15,6 +15,8 @@
 <p>🛠️ <b>Stack:</b> React · Next.js · TypeScript</p>
 <p>📡 <b>Aprendendo:</b> React Native · NestJS</p>
 
+<br/>
+
 Tenho experiência no desenvolvimento de aplicações web utilizando JavaScript, TypeScript, React e tecnologias modernas do ecossistema frontend, criando interfaces responsivas, organizadas e com foco em experiência do usuário.
 
 Também possuo experiência com integração de APIs, bancos de dados relacionais e desenvolvimento de projetos completos em ambientes acadêmicos e pessoais, sempre buscando aplicar boas práticas, componentização e código limpo.
