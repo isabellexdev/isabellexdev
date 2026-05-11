@@ -46,29 +46,41 @@ Sou apaixonada por tecnologia, aprendizado contínuo e desenvolvimento de soluç
 <table border="0" cellspacing="0" cellpadding="12">
   <tr>
     <td align="center" valign="top">
-      <sub><b>Linguagens • Languages</b></sub><br/><br/>
+      <sub><b>Linguagens</b></sub><br/>
+      <img src="https://i.imgur.com/8Wc6K8B.png" width="100%" height="2"/>
+      <br/>
       <img src="https://skillicons.dev/icons?i=ts,js,html,css&theme=dark" />
     </td>
     <td align="center" valign="top">
-      <sub><b>Frameworks • Frameworks</b></sub><br/><br/>
+      <sub><b>Frameworks</b></sub><br/>
+      <img src="https://i.imgur.com/8Wc6K8B.png" width="100%" height="2"/>
+      <br/>
       <img src="https://skillicons.dev/icons?i=react,nextjs,expo&theme=dark" />
     </td>
     <td align="center" valign="top">
-      <sub><b>Banco de Dados & ORM • Database & ORM</b></sub><br/><br/>
+      <sub><b>Banco de Dados & ORM</b></sub><br/>
+      <img src="https://i.imgur.com/8Wc6K8B.png" width="100%" height="2"/>
+      <br/>
       <img src="https://skillicons.dev/icons?i=mysql,prisma&theme=dark" />
     </td>
   </tr>
   <tr>
     <td align="center" valign="top">
-      <sub><b>Ferramentas • Tools</b></sub><br/><br/>
+      <sub><b>Ferramentas</b></sub><br/>
+      <img src="https://i.imgur.com/8Wc6K8B.png" width="100%" height="2"/>
+      <br/>
       <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
     </td>
     <td align="center" valign="top">
-      <sub><b>Design • Design</b></sub><br/><br/>
+      <sub><b>Design</b></sub><br/>
+      <img src="https://i.imgur.com/8Wc6K8B.png" width="100%" height="2"/>
+      <br/>
       <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
     </td>
     <td align="center" valign="top">
-      <sub><b>Estudando agora 📡 • Currently Learning</b></sub><br/><br/>
+      <sub><b>Estudando agora 📡</b></sub><br/>
+      <img src="https://i.imgur.com/8Wc6K8B.png" width="100%" height="2"/>
+      <br/>
       <img src="https://skillicons.dev/icons?i=reactnative,nestjs&theme=dark" />
     </td>
   </tr>
