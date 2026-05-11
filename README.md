@@ -6,14 +6,13 @@
 Isabelle Santana |
 Desenvolvedora Web Júnior
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-Sou desenvolvedora web júnior, estudante de tecnologia, apaixonada por criação de interfaces
-e experiências digitais.
+Tenho experiência no desenvolvimento de aplicações web utilizando JavaScript, TypeScript, React e tecnologias modernas do ecossistema frontend, criando interfaces responsivas, organizadas e com foco em experiência do usuário.
 
-Tenho experiência prática com desenvolvimento frontend utilizando HTML, CSS, JavaScript e React, além de já ter trabalhado com MySQL em projetos acadêmicos e pessoais.
+Também possuo experiência com integração de APIs, bancos de dados relacionais e desenvolvimento de projetos completos em ambientes acadêmicos e pessoais, sempre buscando aplicar boas práticas, componentização e código limpo.
 
-Atualmente estou aprofundando meus conhecimentos em Next.js e iniciando estudos e aplicações com Node.js, buscando evoluir para desenvolvimento full stack.
+Atualmente, estou aprofundando meus conhecimentos em React Native para desenvolvimento mobile e NestJS no backend, expandindo minha atuação para o desenvolvimento full stack e construção de aplicações mais escaláveis e performáticas.
 
-Tenho foco em escrever código organizado, aplicar boas práticas e desenvolver projetos com usabilidade e boa experiência do usuário.
+Sou apaixonada por tecnologia, aprendizado contínuo e desenvolvimento de soluções que unam funcionalidade, performance e uma boa experiência visual para o usuário.
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 <h2>🛠️ Tecnologias</h2>
