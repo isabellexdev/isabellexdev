@@ -41,7 +41,7 @@ Sou apaixonada por tecnologia, aprendizado contínuo e desenvolvimento de soluç
   </tr>
 
   <tr>
-    <td><b>Banco de Dados</b></td>
+    <td><b>Banco de Dados & ORM</b></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" width="35" />    
