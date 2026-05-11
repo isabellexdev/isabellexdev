@@ -30,7 +30,6 @@ Também possuo experiência com integração de APIs, bancos de dados relacionai
 Atualmente, estou aprofundando meus conhecimentos em React Native para desenvolvimento mobile e NestJS no backend, expandindo minha atuação para o desenvolvimento full stack e construção de aplicações mais escaláveis e performáticas.
 
 Sou apaixonada por tecnologia, aprendizado contínuo e desenvolvimento de soluções que unam funcionalidade, performance e uma boa experiência visual para o usuário.
-
 <br/>
 
 <div align="center">
