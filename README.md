@@ -17,6 +17,10 @@
 
 <br/>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20&height=1&width=100%"/>
+</div>
+
 Tenho experiência no desenvolvimento de aplicações web utilizando JavaScript, TypeScript, React e tecnologias modernas do ecossistema frontend, criando interfaces responsivas, organizadas e com foco em experiência do usuário.
 
 Também possuo experiência com integração de APIs, bancos de dados relacionais e desenvolvimento de projetos completos em ambientes acadêmicos e pessoais, sempre buscando aplicar boas práticas, componentização e código limpo.
