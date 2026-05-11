@@ -10,15 +10,18 @@
 
 > _transformando código em experiência_ ✦
 
-<p>🧑‍💻 <b>role:</b> Front-End Developer Jr.</p>
-<p>💜 <b>paixao:</b> UI elegante · código limpo · UX</p>
-<p>🛠️ <b>stack:</b> React · Next.js · TypeScript</p>
-<p>📡 <b>aprendendo:</b> React Native · NestJS</p>
-<p>✨ <b>filosofia:</b> funcional + bonito = perfeito</p>
+<p>🧑‍💻 <b>Role:</b> Front-End Developer Jr.</p>
+<p>💜 <b>Paixão:</b> UI elegante · código limpo · UX</p>
+<p>🛠️ <b>Stack:</b> React · Next.js · TypeScript</p>
+<p>📡 <b>Aprendendo:</b> React Native · NestJS</p>
 
-Desenvolvo interfaces **responsivas e acessíveis** com foco em experiência do usuário. Combino visão de design com código organizado — porque uma boa UI não é só estética, é intenção.
+Tenho experiência no desenvolvimento de aplicações web utilizando JavaScript, TypeScript, React e tecnologias modernas do ecossistema frontend, criando interfaces responsivas, organizadas e com foco em experiência do usuário.
 
-Apaixonada por aprendizado contínuo, atualmente expandindo para o universo **mobile e back-end** para construir produtos completos e escaláveis.
+Também possuo experiência com integração de APIs, bancos de dados relacionais e desenvolvimento de projetos completos em ambientes acadêmicos e pessoais, sempre buscando aplicar boas práticas, componentização e código limpo.
+
+Atualmente, estou aprofundando meus conhecimentos em React Native para desenvolvimento mobile e NestJS no backend, expandindo minha atuação para o desenvolvimento full stack e construção de aplicações mais escaláveis e performáticas.
+
+Sou apaixonada por tecnologia, aprendizado contínuo e desenvolvimento de soluções que unam funcionalidade, performance e uma boa experiência visual para o usuário.
 
 <br/>
 
@@ -43,29 +46,29 @@ Apaixonada por aprendizado contínuo, atualmente expandindo para o universo **mo
 <table border="0" cellspacing="0" cellpadding="12">
   <tr>
     <td align="center" valign="top">
-      <sub><b>Linguagens</b></sub><br/><br/>
+      <sub><b>Linguagens • Languages</b></sub><br/><br/>
       <img src="https://skillicons.dev/icons?i=ts,js,html,css&theme=dark" />
     </td>
     <td align="center" valign="top">
-      <sub><b>Frameworks</b></sub><br/><br/>
+      <sub><b>Frameworks • Frameworks</b></sub><br/><br/>
       <img src="https://skillicons.dev/icons?i=react,nextjs,expo&theme=dark" />
     </td>
     <td align="center" valign="top">
-      <sub><b>Banco de Dados & ORM</b></sub><br/><br/>
+      <sub><b>Banco de Dados & ORM • Database & ORM</b></sub><br/><br/>
       <img src="https://skillicons.dev/icons?i=mysql,prisma&theme=dark" />
     </td>
   </tr>
   <tr>
     <td align="center" valign="top">
-      <sub><b>Ferramentas</b></sub><br/><br/>
+      <sub><b>Ferramentas • Tools</b></sub><br/><br/>
       <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
     </td>
     <td align="center" valign="top">
-      <sub><b>Design</b></sub><br/><br/>
+      <sub><b>Design • Design</b></sub><br/><br/>
       <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
     </td>
     <td align="center" valign="top">
-      <sub><b>Estudando agora 📡</b></sub><br/><br/>
+      <sub><b>Estudando agora 📡 • Currently Learning</b></sub><br/><br/>
       <img src="https://skillicons.dev/icons?i=reactnative,nestjs&theme=dark" />
     </td>
   </tr>
