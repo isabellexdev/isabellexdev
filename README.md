@@ -6,17 +6,15 @@
 
 <br/>
 
-## `> Sobre mim`
+## `> SOBRE MIM`
 
-> _Transformando código em experiência_ ✦
+> _transformando código em experiência_ ✦
 
-<pre><code>const isabelle = {
-  role:        "Front-End Developer Jr.",
-  paixao:      ["UI elegante", "código limpo", "UX"],
-  stack:       ["React", "Next.js", "TypeScript"],
-  aprendendo:  ["React Native", "NestJS"],
-  filosofia:   "funcional + bonito = perfeito",
-};</code></pre>
+<p>🧑‍💻 <b>role:</b> Front-End Developer Jr.</p>
+<p>💜 <b>paixao:</b> UI elegante · código limpo · UX</p>
+<p>🛠️ <b>stack:</b> React · Next.js · TypeScript</p>
+<p>📡 <b>aprendendo:</b> React Native · NestJS</p>
+<p>✨ <b>filosofia:</b> funcional + bonito = perfeito</p>
 
 Desenvolvo interfaces **responsivas e acessíveis** com foco em experiência do usuário. Combino visão de design com código organizado — porque uma boa UI não é só estética, é intenção.
 
@@ -38,7 +36,7 @@ Apaixonada por aprendizado contínuo, atualmente expandindo para o universo **mo
 
 <br/>
 
-## `✦ Stack`
+## `✦ STACK`
 
 <div align="center">
 
@@ -49,14 +47,8 @@ Apaixonada por aprendizado contínuo, atualmente expandindo para o universo **mo
       <img src="https://skillicons.dev/icons?i=ts,js,html,css&theme=dark" />
     </td>
     <td align="center" valign="top">
-      <sub><b>Frameworks & Libs</b></sub><br/><br/>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,expo,tailwind&theme=dark" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
-      <sub><b>Estilização</b></sub><br/><br/>
-      <img src="https://skillicons.dev/icons?i=styledcomponents,sass&theme=dark" />
+      <sub><b>Frameworks</b></sub><br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,expo&theme=dark" />
     </td>
     <td align="center" valign="top">
       <sub><b>Banco de Dados & ORM</b></sub><br/><br/>
@@ -65,11 +57,15 @@ Apaixonada por aprendizado contínuo, atualmente expandindo para o universo **mo
   </tr>
   <tr>
     <td align="center" valign="top">
-      <sub><b>Ambiente & Design</b></sub><br/><br/>
-      <img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark" />
+      <sub><b>Ferramentas</b></sub><br/><br/>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
     </td>
     <td align="center" valign="top">
-      <sub><b>Estudando agora</b> 📡</sub><br/><br/>
+      <sub><b>Design</b></sub><br/><br/>
+      <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
+    </td>
+    <td align="center" valign="top">
+      <sub><b>Estudando agora 📡</b></sub><br/><br/>
       <img src="https://skillicons.dev/icons?i=reactnative,nestjs&theme=dark" />
     </td>
   </tr>
@@ -85,7 +81,7 @@ Apaixonada por aprendizado contínuo, atualmente expandindo para o universo **mo
 
 <br/>
 
-## `✦ Projetos`
+## `✦ PROJETOS`
 
 > _Interfaces que contam histórias — cada projeto com intenção e cuidado._
 
@@ -103,7 +99,7 @@ Apaixonada por aprendizado contínuo, atualmente expandindo para o universo **mo
 
 <br/>
 
-## `✦ certificações`
+## `✦ CERTIFICAÇÕES`
 
 <div align="center">
 
@@ -127,13 +123,13 @@ Apaixonada por aprendizado contínuo, atualmente expandindo para o universo **mo
 
 <br/>
 
-## `✦ contato`
+## `✦ CONTATO`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0a2e?style=for-the-badge&logo=linkedin&logoColor=c084fc)](https://www.linkedin.com/in/isabelle-santana-a043843b0/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0a2e?style=for-the-badge&logo=linkedin&logoColor=c084fc)](https://linkedin.com/in/isabelle-santana)
 [![Portfolio](https://img.shields.io/badge/Portfólio-1a0a2e?style=for-the-badge&logo=vercel&logoColor=c084fc)](https://seu-portfolio.com)
-[![Gmail](https://img.shields.io/badge/Gmail-1a0a2e?style=for-the-badge&logo=gmail&logoColor=c084fc)](isabellexdev@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-1a0a2e?style=for-the-badge&logo=gmail&logoColor=c084fc)](mailto:isabellexdev@gmail.com)
 
 </div>
 
