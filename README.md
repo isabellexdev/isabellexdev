@@ -6,19 +6,17 @@
 
 <br/>
 
-## `> sobre mim`
+## `> Sobre mim`
 
-> _transformando código em experiência_ ✦
+> _Transformando código em experiência_ ✦
 
-```ts
-const isabelle = {
-  role: "Front-End Developer Jr.",
-  paixao: ["UI elegante", "código limpo", "UX"],
-  stack: ["React", "Next.js", "TypeScript"],
-  aprendendo: ["React Native", "NestJS"],
-  filosofia: "funcional + bonito = perfeito",
-};
-```
+<pre><code>const isabelle = {
+  role:        "Front-End Developer Jr.",
+  paixao:      ["UI elegante", "código limpo", "UX"],
+  stack:       ["React", "Next.js", "TypeScript"],
+  aprendendo:  ["React Native", "NestJS"],
+  filosofia:   "funcional + bonito = perfeito",
+};</code></pre>
 
 Desenvolvo interfaces **responsivas e acessíveis** com foco em experiência do usuário. Combino visão de design com código organizado — porque uma boa UI não é só estética, é intenção.
 
@@ -40,7 +38,7 @@ Apaixonada por aprendizado contínuo, atualmente expandindo para o universo **mo
 
 <br/>
 
-## `✦ stack`
+## `✦ Stack`
 
 <div align="center">
 
@@ -87,7 +85,7 @@ Apaixonada por aprendizado contínuo, atualmente expandindo para o universo **mo
 
 <br/>
 
-## `✦ projetos`
+## `✦ Projetos`
 
 > _Interfaces que contam histórias — cada projeto com intenção e cuidado._
 
@@ -133,9 +131,9 @@ Apaixonada por aprendizado contínuo, atualmente expandindo para o universo **mo
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0a2e?style=for-the-badge&logo=linkedin&logoColor=c084fc)](https://linkedin.com/in/isabelle-santana)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0a2e?style=for-the-badge&logo=linkedin&logoColor=c084fc)](https://www.linkedin.com/in/isabelle-santana-a043843b0/)
 [![Portfolio](https://img.shields.io/badge/Portfólio-1a0a2e?style=for-the-badge&logo=vercel&logoColor=c084fc)](https://seu-portfolio.com)
-[![Gmail](https://img.shields.io/badge/Gmail-1a0a2e?style=for-the-badge&logo=gmail&logoColor=c084fc)](mailto:seuemail@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-1a0a2e?style=for-the-badge&logo=gmail&logoColor=c084fc)](isabellexdev@gmail.com)
 
 </div>
 
