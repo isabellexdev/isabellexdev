@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 Isabelle Santana |
-Desenvolvedora Web Júnior
+Desenvolvedora Front-End Júnior
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 Tenho experiência no desenvolvimento de aplicações web utilizando JavaScript, TypeScript, React e tecnologias modernas do ecossistema frontend, criando interfaces responsivas, organizadas e com foco em experiência do usuário.
 
