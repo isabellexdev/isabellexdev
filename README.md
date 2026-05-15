@@ -141,7 +141,7 @@ Sou apaixonada por tecnologia, aprendizado contínuo e desenvolvimento de soluç
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0a2e?style=for-the-badge&logo=linkedin&logoColor=c084fc)](https://linkedin.com/in/isabelle-santana)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0a2e?style=for-the-badge&logo=linkedin&logoColor=c084f)](www.linkedin.com/in/isabelle-santana-a043843b0)
 [![Portfolio](https://img.shields.io/badge/Portfólio-1a0a2e?style=for-the-badge&logo=vercel&logoColor=c084fc)](https://seu-portfolio.com)
 [![Gmail](https://img.shields.io/badge/Gmail-1a0a2e?style=for-the-badge&logo=gmail&logoColor=c084fc)](mailto:isabellexdev@gmail.com)
 
