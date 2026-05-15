@@ -51,7 +51,7 @@ Sou apaixonada por tecnologia, aprendizado contínuo e desenvolvimento de soluç
       <img src="https://skillicons.dev/icons?i=ts,js,html,css&theme=dark" />
     </td>
     <td align="center" valign="top">
-      <sub><b>Frameworks</b></sub><br/>
+      <sub><b>Frameworks & Bibliotecas</b></sub><br/>
       <img src="https://i.imgur.com/8Wc6K8B.png" width="100%" height="2"/>
       <br/>
       <img src="https://skillicons.dev/icons?i=react,nextjs,expo&theme=dark" />
