@@ -87,7 +87,6 @@ Sou apaixonada por tecnologia, aprendizado contínuo e desenvolvimento de soluç
 </table>
 
 </div>
-
 <br/>
 
 <div align="center">
@@ -95,56 +94,9 @@ Sou apaixonada por tecnologia, aprendizado contínuo e desenvolvimento de soluç
 </div>
 
 <br/>
-
-## `✦ PORTFÓLIO`
-
-> _Interfaces que contam histórias — cada projeto com intenção e cuidado._
-
-<div align="center">
-
-[![Portfólio](https://img.shields.io/badge/🌐%20Acessar%20Portfólio-1a0a2e?style=for-the-badge&logoColor=c084fc&color=6b3fa0)](https://isabelle-santana.up.railway.app/)
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20&height=1&width=100%"/>
-</div>
-
-<br/>
-
-## `✦ CERTIFICAÇÕES`
-
-<div align="center">
-
-| Curso | Plataforma | Ano |
-|:------|:----------:|:---:|
-| Linguagem de Programação: Projetos Artísticos com JavaScript | Alura | 2024 |
-| Repositório Digital: Compartilhando Projetos | Alura | 2024 |
-| Introdução à Computação: Ambientes e Ferramentas | Alura | 2024 |
-| Conectando-se ao Mundo Profissional | Alura | 2024 |
-| Hackathon IFSP-SeTUR | IFSP | 2025 |
-| Inglês Intermediário — EF Level 8 (CEFR B1) | EF | 2025 |
-| Planilhas: Analisando Dados sobre Acessibilidade | Alura | 2026 |
-| Mídias Digitais: Apresentação com AutorIA | Alura | 2026 |
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20&height=1&width=100%"/>
-</div>
-
-<br/>
-
-## `✦ CONTATO`
-
-<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0a2e?style=for-the-badge&logo=linkedin&logoColor=c084fc)](https://www.linkedin.com/in/isabelle-santana-a043843b0/)
-[![Portfolio](https://img.shields.io/badge/Portfólio-1a0a2e?style=for-the-badge&logo=vercel&logoColor=c084fc)](https://isabelle-santana.up.railway.app/)
+[![Portfolio](https://img.shields.io/badge/Portfólio-1a0a2e?style=for-the-badge&logo=railway&logoColor=c084fc)](https://isabelle-santana.up.railway.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-1a0a2e?style=for-the-badge&logo=gmail&logoColor=c084fc)](mailto:isabellexdev@gmail.com)
 
 </div>
