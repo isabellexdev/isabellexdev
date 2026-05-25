@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/isabellexdev/portifolio-isabelle/main/capa-git-hub.png" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a0a2e,50:6b3fa0,100:c084fc&height=200&section=header&text=Isabelle%20Santana&fontSize=52&fontColor=f3e8ff&fontAlignY=55&desc=Front-End%20Developer%20%7C%20Designer&descSize=18&descAlignY=75&descColor=c084fc&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -81,7 +81,7 @@ Sou apaixonada por tecnologia, aprendizado contínuo e desenvolvimento de soluç
       <sub><b>Estudando agora 📡</b></sub><br/>
       <img src="https://i.imgur.com/8Wc6K8B.png" width="100%" height="2"/>
       <br/>
-      <img src="https://skillicons.dev/icons?i=reactnative,nestjs&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=nestjs&theme=dark" />
     </td>
   </tr>
 </table>
@@ -96,104 +96,13 @@ Sou apaixonada por tecnologia, aprendizado contínuo e desenvolvimento de soluç
 
 <br/>
 
-## `✦ PROJETOS`
+## `✦ PORTFÓLIO`
 
 > _Interfaces que contam histórias — cada projeto com intenção e cuidado._
 
-<br/>
-
 <div align="center">
 
-### 🌿 Verde Factual
-[![Repo](https://img.shields.io/badge/Repositório-1a0a2e?style=for-the-badge&logo=github&logoColor=c084fc)](https://github.com/isatech07/Verde-Factual)
-[![Demo](https://img.shields.io/badge/Demo-6b21a8?style=for-the-badge&logo=vercel&logoColor=white)](https://isatech07.github.io/Verde-Factual/)
-<br/>
-![Figma](https://img.shields.io/badge/Figma-a855f7?style=flat-square&logoColor=white&logo=figma)
-![HTML](https://img.shields.io/badge/HTML-a855f7?style=flat-square&logoColor=white&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-a855f7?style=flat-square&logoColor=white&logo=css3)
-
-> Portal de notícias ambientais com foco em informações factuais sobre o Brasil.
-
-</div>
-
----
-
-<div align="center">
-
-### 🎵 Echomusic
-[![Repo](https://img.shields.io/badge/Repositório-1a0a2e?style=for-the-badge&logo=github&logoColor=c084fc)](https://github.com/camyf7/echomusic)
-[![Demo](https://img.shields.io/badge/Demo-6b21a8?style=for-the-badge&logo=vercel&logoColor=white)](https://camyf7.github.io/echomusic/)
-<br/>
-![React](https://img.shields.io/badge/React-a855f7?style=flat-square&logoColor=white&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-a855f7?style=flat-square&logoColor=white&logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-a855f7?style=flat-square&logoColor=white&logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express-a855f7?style=flat-square&logoColor=white&logo=express)
-
-> Plataforma musical com autenticação, comunidades e salas ao vivo.
-
-</div>
-
----
-
-<div align="center">
-
-### 🌊 Wave Care — Web
-[![Repo](https://img.shields.io/badge/Repositório-1a0a2e?style=for-the-badge&logo=github&logoColor=c084fc)](https://github.com/isatech07/wave-care)
-<br/>
-![React](https://img.shields.io/badge/React-a855f7?style=flat-square&logoColor=white&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-a855f7?style=flat-square&logoColor=white&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-a855f7?style=flat-square&logoColor=white&logo=typescript)
-![Prisma](https://img.shields.io/badge/Prisma-a855f7?style=flat-square&logoColor=white&logo=prisma)
-
-> E-commerce de cuidados capilares com apresentação de produtos e kits.
-
-</div>
-
----
-
-<div align="center">
-
-### 📱 Wave Care — Mobile
-[![Repo](https://img.shields.io/badge/Repositório-1a0a2e?style=for-the-badge&logo=github&logoColor=c084fc)](https://github.com/isatech07/wave-care-mobile)
-<br/>
-![React Native](https://img.shields.io/badge/React_Native-a855f7?style=flat-square&logoColor=white&logo=react)
-![Expo](https://img.shields.io/badge/Expo-a855f7?style=flat-square&logoColor=white&logo=expo)
-![TypeScript](https://img.shields.io/badge/TypeScript-a855f7?style=flat-square&logoColor=white&logo=typescript)
-![Prisma](https://img.shields.io/badge/Prisma-a855f7?style=flat-square&logoColor=white&logo=prisma)
-
-> Aplicativo mobile de cuidados capilares com experiência fluida.
-
-</div>
-
----
-
-<div align="center">
-
-### 🗂️ Papel & Ponto
-[![Repo](https://img.shields.io/badge/Repositório-1a0a2e?style=for-the-badge&logo=github&logoColor=c084fc)](https://github.com/isatech07/papel---ponto)
-<br/>
-![React](https://img.shields.io/badge/React-a855f7?style=flat-square&logoColor=white&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-a855f7?style=flat-square&logoColor=white&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/Tailwind-a855f7?style=flat-square&logoColor=white&logo=tailwindcss)
-
-> E-commerce de papelaria com catálogo de produtos e identidade visual consistente.
-
-</div>
-
----
-
-<div align="center">
-
-### 💼 Portfólio Pessoal
-[![Repo](https://img.shields.io/badge/Repositório-1a0a2e?style=for-the-badge&logo=github&logoColor=c084fc)](https://github.com/isabellexdev/portifolio-isabelle)
-[![Demo](https://img.shields.io/badge/Acessar-6b21a8?style=for-the-badge&logo=vercel&logoColor=white)](https://isabelle-santana.up.railway.app)
-<br/>
-![Next.js](https://img.shields.io/badge/Next.js-a855f7?style=flat-square&logoColor=white&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-a855f7?style=flat-square&logoColor=white&logo=typescript)
-![MySQL](https://img.shields.io/badge/MySQL-a855f7?style=flat-square&logoColor=white&logo=mysql)
-![Prisma](https://img.shields.io/badge/Prisma-a855f7?style=flat-square&logoColor=white&logo=prisma)
-
-> Portfólio pessoal com backend integrado, formulário de contato e certificações dinâmicas.
+[![Portfólio](https://img.shields.io/badge/🌐%20Acessar%20Portfólio-1a0a2e?style=for-the-badge&logoColor=c084fc&color=6b3fa0)](https://isabelle-santana.up.railway.app/)
 
 </div>
 
@@ -214,6 +123,7 @@ Sou apaixonada por tecnologia, aprendizado contínuo e desenvolvimento de soluç
 | Linguagem de Programação: Projetos Artísticos com JavaScript | Alura | 2024 |
 | Repositório Digital: Compartilhando Projetos | Alura | 2024 |
 | Introdução à Computação: Ambientes e Ferramentas | Alura | 2024 |
+| Conectando-se ao Mundo Profissional | Alura | 2024 |
 | Hackathon IFSP-SeTUR | IFSP | 2025 |
 | Inglês Intermediário — EF Level 8 (CEFR B1) | EF | 2025 |
 | Planilhas: Analisando Dados sobre Acessibilidade | Alura | 2026 |
@@ -233,8 +143,8 @@ Sou apaixonada por tecnologia, aprendizado contínuo e desenvolvimento de soluç
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0a2e?style=for-the-badge&logo=linkedin&logoColor=c084fc)](https://www.linkedin.com/in/isabelle-santana-a043843b0)
-[![Portfolio](https://img.shields.io/badge/Portfólio-1a0a2e?style=for-the-badge&logo=vercel&logoColor=c084fc)](https://isabelle-santana.up.railway.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0a2e?style=for-the-badge&logo=linkedin&logoColor=c084fc)](https://www.linkedin.com/in/isabelle-santana-a043843b0/)
+[![Portfolio](https://img.shields.io/badge/Portfólio-1a0a2e?style=for-the-badge&logo=vercel&logoColor=c084fc)](https://isabelle-santana.up.railway.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-1a0a2e?style=for-the-badge&logo=gmail&logoColor=c084fc)](mailto:isabellexdev@gmail.com)
 
 </div>
