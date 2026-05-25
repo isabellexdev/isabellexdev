@@ -30,6 +30,7 @@ Também possuo experiência com integração de APIs, bancos de dados relacionai
 Atualmente, estou aprofundando meus conhecimentos em React Native para desenvolvimento mobile e NestJS no backend, expandindo minha atuação para o desenvolvimento full stack e construção de aplicações mais escaláveis e performáticas.
 
 Sou apaixonada por tecnologia, aprendizado contínuo e desenvolvimento de soluções que unam funcionalidade, performance e uma boa experiência visual para o usuário.
+
 <br/>
 
 <div align="center">
@@ -101,7 +102,7 @@ Sou apaixonada por tecnologia, aprendizado contínuo e desenvolvimento de soluç
 
 <div align="center">
 
-[![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=isabelle-santana&repo=portfolio&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=c084fc&text_color=e2d9f3&icon_color=a855f7)](https://github.com/isabelle-santana/portfolio)
+[![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=isabellexdev&repo=portifolio-isabelle&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=c084fc&text_color=e2d9f3&icon_color=a855f7)](https://github.com/isabellexdev/portifolio-isabelle)
 
 </div>
 
@@ -141,8 +142,8 @@ Sou apaixonada por tecnologia, aprendizado contínuo e desenvolvimento de soluç
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0a2e?style=for-the-badge&logo=linkedin&logoColor=c084f)](www.linkedin.com/in/isabelle-santana-a043843b0)
-[![Portfolio](https://img.shields.io/badge/Portfólio-1a0a2e?style=for-the-badge&logo=vercel&logoColor=c084fc)](https://seu-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0a2e?style=for-the-badge&logo=linkedin&logoColor=c084fc)](https://www.linkedin.com/in/isabelle-santana-a043843b0)
+[![Portfolio](https://img.shields.io/badge/Portfólio-1a0a2e?style=for-the-badge&logo=vercel&logoColor=c084fc)](https://isabelle-santana.up.railway.app)
 [![Gmail](https://img.shields.io/badge/Gmail-1a0a2e?style=for-the-badge&logo=gmail&logoColor=c084fc)](mailto:isabellexdev@gmail.com)
 
 </div>
