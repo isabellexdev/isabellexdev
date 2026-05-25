@@ -95,9 +95,19 @@ Sou apaixonada por tecnologia, aprendizado contínuo e desenvolvimento de soluç
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0a2e?style=for-the-badge&logo=linkedin&logoColor=c084fc)](https://www.linkedin.com/in/isabelle-santana-a043843b0/)
-[![Portfolio](https://img.shields.io/badge/Portfólio-1a0a2e?style=for-the-badge&logo=railway&logoColor=c084fc)](https://isabelle-santana.up.railway.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-1a0a2e?style=for-the-badge&logo=gmail&logoColor=c084fc)](mailto:isabellexdev@gmail.com)
+<div align="center">
+  
+<a href="https://www.linkedin.com/in/isabelle-santana-a043843b0/">
+  <img src="https://img.shields.io/badge/LinkedIn-1a0a2e?style=for-the-badge&logo=linkedin&logoColor=c084fc" height="60"/>
+</a>
+
+<a href="https://isabelle-santana.up.railway.app/">
+  <img src="https://img.shields.io/badge/Portfólio-1a0a2e?style=for-the-badge&logo=railway&logoColor=c084fc" height="60"/>
+</a>
+
+<a href="mailto:isabellexdev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-1a0a2e?style=for-the-badge&logo=gmail&logoColor=c084fc" height="60"/>
+</a>
 
 </div>
 
